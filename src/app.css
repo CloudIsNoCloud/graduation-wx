@@ -1,0 +1,13 @@
+.at-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.padding-content {
+  padding: 24px;
+}
+
+.current-price {
+  font-size: 1.5rem;
+  color: #ff4949;
+}

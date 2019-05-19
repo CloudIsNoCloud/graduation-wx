@@ -1,0 +1,16 @@
+.record-item {
+  box-sizing: border-box;
+  padding: 24px;
+  margin-bottom: 24px;
+  border-radius: 24px;
+  font-size: 0.75rem;
+  background-color: #eeeeee;
+}
+
+.record-item-name {
+  margin-bottom: 24px;
+  font-size: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
